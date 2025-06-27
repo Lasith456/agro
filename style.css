@@ -54,9 +54,16 @@ a {
 }
 
 .logo {
+    display: flex; /* Aligns image and text side-by-side */
+    align-items: center; /* Vertically centers the items */
     font-size: 24px;
     font-weight: 700;
     color: var(--primary-green);
+}
+
+.logo img {
+    height: 40px; /* Adjust the height of your logo */
+    margin-right: 10px; /* Adds space between the logo and the text */
 }
 
 .main-nav ul {
