@@ -2,7 +2,7 @@
 
 This repository contains the complete source code for the SuperAgro company portfolio website. This is a clean, professional, and fully responsive multi-page static website designed to showcase the company's brand, products, and services.
 
-A live demo of the website can be viewed here: **[Live Demo](https://YOUR_LIVE_URL_HERE.com)** *(Replace with your actual website link after deployment)*
+A live demo of the website can be viewed here: **[Live Demo](https://lasith456.github.io/agro/)** *(Replace with your actual website link after deployment)*
 
 ## Features
 
