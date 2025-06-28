@@ -81,4 +81,4 @@ The contact form in `contact.html` requires a simple configuration to send email
 
 Project created by - [Lasith Chamika Viduranga] - [lcviduranga456@gmail.com](mailto:lcviduranga456@gmail.com)
 
-Project Link: [https://github.com/YOUR_USERNAME/superagro-website](https://github.com/YOUR_USERNAME/superagro-website)
+Project Link: [https://github.com/Lasith456/agro.git](https://github.com/Lasith456/agro.git)
